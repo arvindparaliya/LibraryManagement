@@ -33,6 +33,11 @@ This is a console-based Library Management System written in Java OOPs concepts.
 3. Run the `Main.java` file.
 4. Follow the on-screen instructions to register, login, or manage the library.
 
+## Contributing
+
+Contributions are welcome! If you find a bug or have a feature request, feel free to open an issue or submit a pull request.
+   
+
 ## Notes
 
 - Data is stored in `.txt` files, so the app can keep data between sessions.
